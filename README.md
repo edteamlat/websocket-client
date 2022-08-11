@@ -1,5 +1,7 @@
 # WebSocket Client
 
+Este es el repositorio del curso de Websockets del lado del cliente en EDteam.
+
 Ciclo de vida:
 
 * Conexión
